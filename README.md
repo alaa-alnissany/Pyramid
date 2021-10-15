@@ -1,2 +1,10 @@
 # Pyramid
-Class for Image Gaussian pyramid using Opencv library
+Class for Image Gaussian
+
+
+
+
+
+
+
+pyramid using Opencv library
