@@ -109,6 +109,8 @@ class Pyramids:
                 else:
                     # using pyrUp() function
                     layer = self.upSamble(layer)
+                    #fr4
                     self.pyrS.append(layer)
         else:
             pass
+
